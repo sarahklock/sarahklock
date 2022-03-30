@@ -7,7 +7,7 @@
 
 [![E-mail](https://img.shields.io/badge/Email-sarah.mauricio.academico@gmail.com-blue?style=flat-square&logo=gmail)](mailto:sarah.mauricio.academico@gmail.com)
 
-[![Institutional E-mail](https://img.shields.io/badge/Email-sarahkm@usp.br-blue?style=flat-square&logo=gmail)](mailto:sarahkm@usp.br)
+[![Institutional_E-mail](https://img.shields.io/badge/Email-sarahkm@usp.br-blue?style=flat-square&logo=gmail)](mailto:sarahkm@usp.br)
 
 😄 Pronouns: she/her
 

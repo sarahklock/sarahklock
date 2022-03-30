@@ -5,15 +5,12 @@
 ### ☘ I am familiar with:
 
 ![Python](https://img.shields.io/badge/python-green)
+![HTML](https://img.shields.io/badge/html-red)
+![CSS](https://img.shields.io/badge/css-blueviolet)
+![c++](https://img.shields.io/badge/c++-yellow)
+![Java](https://img.shields.io/badge/java-orange)
+![Python](https://img.shields.io/badge/pandas-9cf)
 
-  <!--
-https://img.shields.io/badge/<>-<jupyter>-<orange>
-https://img.shields.io/badge/<html>-<red>
-https://img.shields.io/badge/<css>-<sucess>
-https://img.shields.io/badge/<c++>-<yellow>
-https://img.shields.io/badge/<java>-<important>
-https://img.shields.io/badge/<pandas>-<ff69b4>
--->
 ### ✨ Pronouns: 
 
 #### she/her

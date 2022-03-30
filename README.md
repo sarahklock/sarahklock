@@ -1,14 +1,19 @@
 # Hi there ☕
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahklock&theme=dark)
-<!--
-### ☘ I have experience with:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahklock&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
--->
+### ☘ I am familiar with:
+
+https://img.shields.io/badge/<>-<python>-<green> https://img.shields.io/badge/<>-<jupyter>-<orange>
+https://img.shields.io/badge/<>-<html>-<red>
+https://img.shields.io/badge/<>-<css>-<sucess>
+https://img.shields.io/badge/<>-<c++>-<yellow>
+https://img.shields.io/badge/<>-<java>-<important>
+https://img.shields.io/badge/<>-<pandas>-<ff69b4>
+
 ### ✨ Pronouns: 
 
-she/her
+#### she/her
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah%20Klock%20Mauricio-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sarah-klock-mauricio-b30130211/)

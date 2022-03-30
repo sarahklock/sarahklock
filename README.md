@@ -4,13 +4,16 @@
 
 ### ☘ I am familiar with:
 
-https://img.shields.io/badge/<python>-<green> https://img.shields.io/badge/<>-<jupyter>-<orange>
+https://img.shields.io/static/v1?message=<python>&color=<green>
+<!--
+https://img.shields.io/badge/<python>-<green> 
+https://img.shields.io/badge/<>-<jupyter>-<orange>
 https://img.shields.io/badge/<html>-<red>
 https://img.shields.io/badge/<css>-<sucess>
 https://img.shields.io/badge/<c++>-<yellow>
 https://img.shields.io/badge/<java>-<important>
 https://img.shields.io/badge/<pandas>-<ff69b4>
-
+-->
 ### ✨ Pronouns: 
 
 #### she/her

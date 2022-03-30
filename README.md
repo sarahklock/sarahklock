@@ -4,7 +4,7 @@
 
 ### ☘ I am familiar with:
 
-![Python](https://img.shields.io/badge/<python>-<green> )
+![Python](https://img.shields.io/badge/python-green)
 
   <!--
 https://img.shields.io/badge/<>-<jupyter>-<orange>

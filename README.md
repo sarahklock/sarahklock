@@ -4,7 +4,7 @@
 
 ### ☘ I have experience with:
 
-![Top langs](https://github-readme-stats-sarahklock.vercel.app/api/top-langs/?username=sarahklock&theme=dark&layout=compact&exclude_repo=github-readme-stats,dotfiles)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahklock)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✨ Pronouns: 
 

@@ -4,9 +4,9 @@
 
 ### ☘ I am familiar with:
 
-https://img.shields.io/static/v1?message=<python>&color=<green>
-<!--
-https://img.shields.io/badge/<python>-<green> 
+![Python](https://img.shields.io/badge/<python>-<green> )
+
+  <!--
 https://img.shields.io/badge/<>-<jupyter>-<orange>
 https://img.shields.io/badge/<html>-<red>
 https://img.shields.io/badge/<css>-<sucess>

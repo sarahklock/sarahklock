@@ -1,8 +1,8 @@
-### Hi there ☕
+# Hi there ☕
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahklock&theme=dark)
 
-# 📫 How to reach me:
+### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah%20Klock%20Mauricio-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sarah-klock-mauricio-b30130211/)
 
 [![E-mail](https://img.shields.io/badge/Email-sarah.mauricio.academico@gmail.com-blue?style=flat-square&logo=gmail)](mailto:sarah.mauricio.academico@gmail.com)
